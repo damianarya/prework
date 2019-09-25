@@ -3,8 +3,8 @@
 	<head>
 		<meta charset="utf-8" />
 		<title>I compleated the prework</title>
-	<head>
+	</head>
 	<body>
-		<p>I compleated the prework</p>
-	<body>
-<html>
+	<p>I compleated the prework!</p>
+	</body>
+</html>
